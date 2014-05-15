@@ -1,0 +1,15 @@
+Source: linz-coordsys
+Section: science
+Priority: optional
+Maintainer: Chris Crook <ccrook@linz.govt.nz>
+Build-Depends: debhelper (>= 8.0.0)
+Standards-Version: 3.9.2
+Homepage:
+#Vcs-Git: git://git.debian.org/collab-maint/linz-coordsys.git
+#Vcs-Browser: http://git.debian.org/?p=collab-maint/linz-coordsys.git;a=summary
+
+Package: linz-coordsys
+Architecture: all
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: Install LINZ coordinate system definition files
+ Install LINZ coordinate system definition files used by a number of LINZ utilities
