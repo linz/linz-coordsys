@@ -1,25 +1,17 @@
 # Script to install the LINZ coordinate system definition files into a standard location
 #
 
-prefix=/usr
-datadir=$(prefix)/share/linz/coordsys
-profiled=/etc/profile.d
-profilef=linz_coordsys.sh
+datadir=${DESTDIR}/usr/share/linz/coordsys
 
-all: envsh
+dummy: 
 
-envsh: makefile
-	echo "\nCOORDSYSDEF=${datadir}/coordsys.def\nexport COORDSYSDEF\n" > ${profilef}
+# Need install to depend on something for debuild
 
-install: all
-	mkdir -p ${DESTDIR}${datadir}
-	cp files/* ${DESTDIR}${datadir}
-	mkdir -p ${DESTDIR}${profiled}
-	cp ${profilef} ${DESTDIR}${profiled}
+install: dummy
+	mkdir -p ${datadir}
+	cp files/* ${datadir}
 
 uninstall:
-	rm -rf ${DESTDIR}${datadir}
-	rm -f ${DESTDIR}${profiled}/${profilef}
+	rm -rf ${datadir}
 
 clean:
-	rm -f ${profilef}
