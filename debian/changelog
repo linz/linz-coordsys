@@ -1,3 +1,10 @@
+linz-coordsys (1.0.2-1) precise; urgency=low
+
+  * Fixing missing version string in deformation model
+  * Packaging
+
+ -- Chris Crook <ccrook@linz.govt.nz>  Wed, 28 May 2014 14:01:08 +1200
+
 linz-coordsys (1.0.1-1) precise; urgency=low
 
   * Fixing missing version string in deformation model
