@@ -1,5 +1,11 @@
 linz-coordsys (1.0.1-1) precise; urgency=low
 
+  * Fixing missing version string in deformation model
+
+ -- Chris Crook <ccrook@linz.govt.nz>  Wed, 28 May 2014 13:59:48 +1200
+
+linz-coordsys (1.0.1-1) precise; urgency=low
+
   * Removing unsuccessful installation of COORDSYSDEF environment variable
 
  -- Chris Crook <ccrook@linz.govt.nz>  Fri, 16 May 2014 09:52:12 +1200
