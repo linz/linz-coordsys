@@ -830,7 +830,7 @@ YORK_L "Mount York Circuit 1949 (links)" REF_FRAME NZGD1949 &
 ! 
 ! GEOID + Geoid file name - a geoid grid for generating orthometric heights
 
-NZVD09 "New Zealand Geoid 2009" NZGD2000 GEOID NZGeoid09
+NZVD09 "New Zealand Geoid 2009" NZGD2000 GEOID nzgeoid09
 
 [height_coordinate_systems]
 !
