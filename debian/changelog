@@ -1,3 +1,9 @@
+linz-coordsys (1.0.3-1) precise; urgency=low
+
+  * Fixing name of geoid file
+
+ -- Chris Crook <ccrook@linz.govt.nz>  Thu, 29 May 2014 20:18:30 +1200
+
 linz-coordsys (1.0.2-1) precise; urgency=low
 
   * Fixing missing version string in deformation model
