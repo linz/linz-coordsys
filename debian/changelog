@@ -1,3 +1,10 @@
+linz-coordsys (1.1.0-1) precise; urgency=low
+
+  * Adding Antarctic projections from LINZS25008
+  * Adding MGA projections supplied by Don Grant
+
+ -- Chris Crook <ccrook@linz.govt.nz>  Tue, 05 Aug 2014 08:18:10 +1200
+
 linz-coordsys (1.0.3-1) precise; urgency=low
 
   * Fixing name of geoid file
