@@ -1,3 +1,11 @@
+linz-coordsys (1.2.0-1) trusty; urgency=medium
+
+  * Updating deformation model to 20150101
+  * Version 2 format deformation model (nested sequences)
+  * Fixes for version 20150101 deformation model
+
+ -- Chris Crook <ccrook@linz.govt.nz>  Thu, 01 Jan 2015 07:11:36 +1300
+
 linz-coordsys (1.1.0-1) precise; urgency=low
 
   * Adding Antarctic projections from LINZS25008
