@@ -1,3 +1,9 @@
+linz-coordsys (1.2.2-1) trusty; urgency=medium
+
+  * Updating WGS84 reference in EGM96 grid
+
+ -- Chris Crook <ccrook@linz.govt.nz>  Mon, 23 Mar 2015 09:33:29 +1300
+
 linz-coordsys (1.2.1-1) trusty; urgency=medium
 
   * Fixing central meridian of UTM01, UTM02, UTM03
