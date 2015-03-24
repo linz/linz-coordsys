@@ -1,3 +1,9 @@
+linz-coordsys (1.2.3-1) trusty; urgency=medium
+
+  * Nic fixes to coordsys.def
+
+ -- Chris Crook <ccrook@linz.govt.nz>  Tue, 24 Mar 2015 14:12:24 +1300
+
 linz-coordsys (1.2.2-1) trusty; urgency=medium
 
   * Updating WGS84 reference in EGM96 grid
