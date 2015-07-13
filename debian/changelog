@@ -1,3 +1,9 @@
+linz-coordsys (1.3.1-1) trusty; urgency=medium
+
+  * Fixing incorrect UTM zone central meridians
+
+ -- Chris Crook <ccrook@linz.govt.nz>  Mon, 13 Jul 2015 14:49:05 +1200
+
 linz-coordsys (1.3.0-1) trusty; urgency=medium
 
   * Converting to IERS format ref frame definitions
