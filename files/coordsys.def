@@ -43,7 +43,7 @@ WGS84 "World Geodetic System 1984 Ellipsoid (WGS84)" 6378137 298.257223563
 ! and the rates of change of each of the parameters.
 !
 ! The transformation parameters may be preceded by "IERS_TSR" or "IERS_ETSR"
-! to denote using ! IERS units of mm, mas, ppb, rather than m, arcsec, ppm.  
+! to denote using IERS units of mm, mas, ppb, rather than m, arcsec, ppm.  
 ! These also use the opposite sign convention for the rotations and change the 
 ! order of the parameters to Tx Ty Tz scale Rx Ry Rx, and for IERS_ETSR, include
 ! the reference date (epoch) before the parameters.  ie the are one of:
@@ -66,6 +66,9 @@ NZGD2000_20140201 "New Zealand Geodetic Datum 2000 (version 20140201)" ELLIPSOID
 
 NZGD2000_20130801 "New Zealand Geodetic Datum 2000 (version 20130801)" ELLIPSOID GRS80 ITRF96 0 0 0 0 0 0 0 &
    DEFORMATION LINZDEF nzgd2000_def_20130801l.bin
+
+NZGD2000_20010101 "New Zealand Geodetic Datum 2000 (version 20010101)" ELLIPSOID GRS80 ITRF96 0 0 0 0 0 0 0 &
+   DEFORMATION 2000.0 VELGRID igns98b 2000.0
 
 RSRGD2000 "Ross Sea Region Geodetic Datum 2000" ELLIPSOID GRS80 ITRF96 0 0 0 0 0 0 0
 
@@ -349,6 +352,7 @@ NZGD2000_20160701 "New Zealand Geodetic Datum 2000 (version 20160701)" REF_FRAME
 NZGD2000_20150101 "New Zealand Geodetic Datum 2000 (version 20150101)" REF_FRAME NZGD2000_20150101 GEODETIC
 NZGD2000_20140201 "New Zealand Geodetic Datum 2000 (version 20140201)" REF_FRAME NZGD2000_20140201 GEODETIC
 NZGD2000_20130801 "New Zealand Geodetic Datum 2000 (version 20130801)" REF_FRAME NZGD2000_20130801 GEODETIC
+NZGD2000_20000101 "New Zealand Geodetic Datum 2000 (version 20000101)" REF_FRAME NZGD2000_20000101 GEODETIC
 
 
 
@@ -386,6 +390,10 @@ NZTM_20140201 "New Zealand Transverse Mercator Projection (20140201)" REF_FRAME 
           RANGE 1000000 4650000 2300000 6350000
 
 NZTM_20130801 "New Zealand Transverse Mercator Projection (20130801)" REF_FRAME NZGD2000_20130801 &
+          PROJECTION TM 173.0 0.0 0.9996 1600000.0 10000000.0 1.0 &
+          RANGE 1000000 4650000 2300000 6350000
+
+NZTM_20000101 "New Zealand Transverse Mercator Projection (20000101)" REF_FRAME NZGD2000_20000101 &
           PROJECTION TM 173.0 0.0 0.9996 1600000.0 10000000.0 1.0 &
           RANGE 1000000 4650000 2300000 6350000
 
