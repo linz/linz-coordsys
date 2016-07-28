@@ -1,3 +1,9 @@
+linz-coordsys (1.5.1-1) trusty; urgency=medium
+
+  * Expanding NZTM to cover EEZ
+
+ -- Chris Crook <ccrook@linz.govt.nz>  Fri, 29 Jul 2016 08:31:49 +1200
+
 linz-coordsys (1.5.0-1) trusty; urgency=medium
 
   * Updating to 20160701 deformation model
