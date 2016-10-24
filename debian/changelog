@@ -1,3 +1,12 @@
+linz-coordsys (1.6.0-1) trusty; urgency=medium
+
+  * Adding 2009 and 2016 geoid source data
+  * Adding 2009 and 2016 geoid source data
+  * Converting offset grids to reference surface grids
+  * Converting lvd geoids back to offset grids
+
+ -- Chris Crook <ccrook@linz.govt.nz>  Tue, 25 Oct 2016 11:51:34 +1300
+
 linz-coordsys (1.5.1-1) trusty; urgency=medium
 
   * Expanding NZTM to cover EEZ
