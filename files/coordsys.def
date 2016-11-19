@@ -956,9 +956,9 @@ YORK_L "Mount York Circuit 1949 (links)" REF_FRAME NZGD1949 &
 !        of an ellipsoidal coordinate system (all ellipsoidal coordinate
 !        systems are treated as ellipsoidal vertical datums)
 ! Name - name of the reference system
-! baseref - code of surface in terms of which the reference surface
+! baseref - code of vertical datum in terms of which the reference surface
 !          is defined, either an ellipsoidal coordinate system 
-!          for ellipsoidal heights or another reference surface.
+!          for ellipsoidal heights or another vertical datum.
 !
 ! This is followed by a definition of the vertical datum relative to the 
 ! base vertical datum as one of: 
