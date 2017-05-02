@@ -1,3 +1,9 @@
+linz-coordsys (1.6.2-1) xenial; urgency=medium
+
+  * Fixing #2: correction ITRF2014 transformation parameters
+
+ -- Chris Crook <ccrook@linz.govt.nz>  Wed, 03 May 2017 08:44:56 +1200
+
 linz-coordsys (1.6.0-1) trusty; urgency=medium
 
   * Adding 2009 and 2016 geoid source data
