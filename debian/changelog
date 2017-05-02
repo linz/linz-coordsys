@@ -1,3 +1,9 @@
+linz-coordsys (1.6.3-1) xenial; urgency=medium
+
+  * Fixing syntax error
+
+ -- Chris Crook <ccrook@linz.govt.nz>  Wed, 03 May 2017 08:53:10 +1200
+
 linz-coordsys (1.6.2-1) xenial; urgency=medium
 
   * Fixing #2: correction ITRF2014 transformation parameters
