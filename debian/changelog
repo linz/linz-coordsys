@@ -1,3 +1,11 @@
+linz-coordsys (1.6.4-1) xenial; urgency=medium
+
+  * Fixing definition of NZGD2000_20000101
+  * Adding datum/coordinate system aliases
+  * Updating deformation model
+
+ -- Chris Crook <ccrook@linz.govt.nz>  Tue, 13 Jun 2017 08:37:26 +1200
+
 linz-coordsys (1.6.3-1) xenial; urgency=medium
 
   * Fixing syntax error
