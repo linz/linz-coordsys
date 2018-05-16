@@ -1,3 +1,9 @@
+linz-coordsys (1.8.0-1) xenial; urgency=medium
+
+  * Modifying to use multi version binary deformation model file
+
+ -- Chris Crook <ccrook@linz.govt.nz>  Wed, 16 May 2018 12:54:26 +1200
+
 linz-coordsys (1.7.0-1) xenial; urgency=medium
 
   * Updating to 23 June 2017 version of GNS Kaikoura source model
