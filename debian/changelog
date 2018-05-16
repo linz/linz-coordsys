@@ -1,3 +1,9 @@
+linz-coordsys (1.8.1-1) xenial; urgency=medium
+
+  * Removing redundant velocity grid file
+
+ -- Chris Crook <ccrook@linz.govt.nz>  Thu, 17 May 2018 07:29:50 +1200
+
 linz-coordsys (1.8.0-1) xenial; urgency=medium
 
   * Modifying to use multi version binary deformation model file
