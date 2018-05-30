@@ -1,3 +1,10 @@
+linz-coordsys (1.9.0-1) xenial; urgency=medium
+
+  * Updating reference coordinate system for egm96 to reflect current WGS84 systems
+  * First candidate update
+
+ -- Chris Crook <ccrook@linz.govt.nz>  Wed, 30 May 2018 19:07:44 +1200
+
 linz-coordsys (1.8.1-1) xenial; urgency=medium
 
   * Removing redundant velocity grid file
