@@ -1,3 +1,11 @@
+linz-coordsys (1.9.1-1) xenial; urgency=medium
+
+  * Adding tests (using concord)
+  * First candidate update
+  * Kaikoura refinement release candidate 2
+
+ -- Chris Crook <ccrook@linz.govt.nz>  Wed, 13 Jun 2018 09:58:56 +1200
+
 linz-coordsys (1.9.0-1) xenial; urgency=medium
 
   * Updating reference coordinate system for egm96 to reflect current WGS84 systems
