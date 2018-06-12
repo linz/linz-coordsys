@@ -48,9 +48,9 @@ for c in `cat itrf_csys.txt`; do
    echo "ITRF96 to ${c}" >> out/itrf.txt
    concord -IITRF96_XYZ -o${c}_XYZ -Y2000 -N6 -P4 in/global.xyz out/test_${c}b.out >> out/itrf.txt 2>&1
    concord -IITRF96_XYZ -o${c}_XYZ -Y2010 -N6 -P4 in/global.xyz out/test_${c}c.out >> out/itrf.txt 2>&1
-   echo "NZGD2000 to ${c}" >> out/itrf.txt
-   concord -INZGD2000,NE,D -o${c},NEH,D -Y2000 -N8 -P8 in/test15.in out/test_${c}d.out >> out/itrf.txt 2>&1
-   concord -INZGD2000,NE,D -o${c},NEH,D -Y2010 -N8 -P8 in/test15.in out/test_${c}e.out >> out/itrf.txt 2>&1
+   echo "NZGD2000_20171201 to ${c}" >> out/itrf.txt
+   concord -INZGD2000_20171201,NE,D -o${c},NEH,D -Y2000 -N8 -P8 in/test15.in out/test_${c}d.out >> out/itrf.txt 2>&1
+   concord -INZGD2000_20171201,NE,D -o${c},NEH,D -Y2010 -N8 -P8 in/test15.in out/test_${c}e.out >> out/itrf.txt 2>&1
 done
 
 # Australian coordinate systems

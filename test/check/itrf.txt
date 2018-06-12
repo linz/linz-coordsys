@@ -1,5 +1,4 @@
 ========== WGS72 ============
-
 Coordinate system: World Geodetic System 1972
 Reference frame: World Geodetic System 1972 (WGS72)
   Relative to WGS84_D
@@ -11,24 +10,19 @@ Ellipsoid: World Geodetic System 1972 Ellipsoid(WGS72)
 
 ITRF96 to WGS72
 
-
 6 coordinates converted
 0 errors occurred reading or converting coordinates
 
-
 6 coordinates converted
 0 errors occurred reading or converting coordinates
-NZGD2000 to WGS72
-
+NZGD2000_20171201 to WGS72
 
 31 coordinates converted
 0 errors occurred reading or converting coordinates
-
 
 31 coordinates converted
 0 errors occurred reading or converting coordinates
 ========== WGS84_D ============
-
 Coordinate system: World Geodetic System 1984 (Doppler)
 Reference frame: World Geodetic System 1984 (Doppler)
   Relative to ITRF90
@@ -40,24 +34,19 @@ Ellipsoid: World Geodetic System 1984 Ellipsoid (WGS84)
 
 ITRF96 to WGS84_D
 
-
 6 coordinates converted
 0 errors occurred reading or converting coordinates
 
-
 6 coordinates converted
 0 errors occurred reading or converting coordinates
-NZGD2000 to WGS84_D
-
+NZGD2000_20171201 to WGS84_D
 
 31 coordinates converted
 0 errors occurred reading or converting coordinates
-
 
 31 coordinates converted
 0 errors occurred reading or converting coordinates
 ========== WGS84_G730 ============
-
 Coordinate system: World Geodetic System 1984 (G730)
 Reference frame: World Geodetic System 1984 (G730)
 Ellipsoid: World Geodetic System 1984 Ellipsoid (WGS84)
@@ -65,24 +54,19 @@ Ellipsoid: World Geodetic System 1984 Ellipsoid (WGS84)
 
 ITRF96 to WGS84_G730
 
-
 6 coordinates converted
 0 errors occurred reading or converting coordinates
 
-
 6 coordinates converted
 0 errors occurred reading or converting coordinates
-NZGD2000 to WGS84_G730
-
+NZGD2000_20171201 to WGS84_G730
 
 31 coordinates converted
 0 errors occurred reading or converting coordinates
-
 
 31 coordinates converted
 0 errors occurred reading or converting coordinates
 ========== WGS84_G873 ============
-
 Coordinate system: World Geodetic System 1984 (G873)
 Reference frame: World Geodetic System 1984 (G873)
 Ellipsoid: World Geodetic System 1984 Ellipsoid (WGS84)
@@ -90,24 +74,19 @@ Ellipsoid: World Geodetic System 1984 Ellipsoid (WGS84)
 
 ITRF96 to WGS84_G873
 
-
 6 coordinates converted
 0 errors occurred reading or converting coordinates
 
-
 6 coordinates converted
 0 errors occurred reading or converting coordinates
-NZGD2000 to WGS84_G873
-
+NZGD2000_20171201 to WGS84_G873
 
 31 coordinates converted
 0 errors occurred reading or converting coordinates
-
 
 31 coordinates converted
 0 errors occurred reading or converting coordinates
 ========== WGS84_G1150 ============
-
 Coordinate system: World Geodetic System 1984 (G1150)
 Reference frame: World Geodetic System 1984 (G1150)
 Ellipsoid: World Geodetic System 1984 Ellipsoid (WGS84)
@@ -115,24 +94,19 @@ Ellipsoid: World Geodetic System 1984 Ellipsoid (WGS84)
 
 ITRF96 to WGS84_G1150
 
-
 6 coordinates converted
 0 errors occurred reading or converting coordinates
 
-
 6 coordinates converted
 0 errors occurred reading or converting coordinates
-NZGD2000 to WGS84_G1150
-
+NZGD2000_20171201 to WGS84_G1150
 
 31 coordinates converted
 0 errors occurred reading or converting coordinates
-
 
 31 coordinates converted
 0 errors occurred reading or converting coordinates
 ========== WGS84_G1674 ============
-
 Coordinate system: World Geodetic System 1984 (G1674)
 Reference frame: World Geodetic System 1984 (G1674)
 Ellipsoid: World Geodetic System 1984 Ellipsoid (WGS84)
@@ -142,24 +116,19 @@ Compatible vertical datums:
   EGM96                Earth Gravitational Model 1996
 ITRF96 to WGS84_G1674
 
-
 6 coordinates converted
 0 errors occurred reading or converting coordinates
 
-
 6 coordinates converted
 0 errors occurred reading or converting coordinates
-NZGD2000 to WGS84_G1674
-
+NZGD2000_20171201 to WGS84_G1674
 
 31 coordinates converted
 0 errors occurred reading or converting coordinates
-
 
 31 coordinates converted
 0 errors occurred reading or converting coordinates
 ========== WGS84_G1762 ============
-
 Coordinate system: World Geodetic System 1984 (G1762)
 Reference frame: World Geodetic System 1984 (G1762)
 Ellipsoid: World Geodetic System 1984 Ellipsoid (WGS84)
@@ -169,24 +138,19 @@ Compatible vertical datums:
   EGM96                Earth Gravitational Model 1996
 ITRF96 to WGS84_G1762
 
-
 6 coordinates converted
 0 errors occurred reading or converting coordinates
 
-
 6 coordinates converted
 0 errors occurred reading or converting coordinates
-NZGD2000 to WGS84_G1762
-
+NZGD2000_20171201 to WGS84_G1762
 
 31 coordinates converted
 0 errors occurred reading or converting coordinates
-
 
 31 coordinates converted
 0 errors occurred reading or converting coordinates
 ========== ITRF88 ============
-
 Coordinate system: International Terrestrial Reference Frame 1988 (LINZ transformation)
 Reference frame: International Terrestrial Reference Frame 1988
   Relative to ITRF96
@@ -198,24 +162,19 @@ Ellipsoid: Geodetic Reference System 1980 (GRS80)
 
 ITRF96 to ITRF88
 
-
 6 coordinates converted
 0 errors occurred reading or converting coordinates
 
-
 6 coordinates converted
 0 errors occurred reading or converting coordinates
-NZGD2000 to ITRF88
-
+NZGD2000_20171201 to ITRF88
 
 31 coordinates converted
 0 errors occurred reading or converting coordinates
-
 
 31 coordinates converted
 0 errors occurred reading or converting coordinates
 ========== ITRF89 ============
-
 Coordinate system: International Terrestrial Reference Frame 1989 (LINZ transformation)
 Reference frame: International Terrestrial Reference Frame 1989
   Relative to ITRF96
@@ -226,24 +185,19 @@ Ellipsoid: Geodetic Reference System 1980 (GRS80)
 
 ITRF96 to ITRF89
 
-
 6 coordinates converted
 0 errors occurred reading or converting coordinates
 
-
 6 coordinates converted
 0 errors occurred reading or converting coordinates
-NZGD2000 to ITRF89
-
+NZGD2000_20171201 to ITRF89
 
 31 coordinates converted
 0 errors occurred reading or converting coordinates
-
 
 31 coordinates converted
 0 errors occurred reading or converting coordinates
 ========== ITRF90 ============
-
 Coordinate system: International Terrestrial Reference Frame 1990 (LINZ transformation)
 Reference frame: International Terrestrial Reference Frame 1990
   Relative to ITRF96
@@ -254,24 +208,19 @@ Ellipsoid: Geodetic Reference System 1980 (GRS80)
 
 ITRF96 to ITRF90
 
-
 6 coordinates converted
 0 errors occurred reading or converting coordinates
 
-
 6 coordinates converted
 0 errors occurred reading or converting coordinates
-NZGD2000 to ITRF90
-
+NZGD2000_20171201 to ITRF90
 
 31 coordinates converted
 0 errors occurred reading or converting coordinates
-
 
 31 coordinates converted
 0 errors occurred reading or converting coordinates
 ========== ITRF91 ============
-
 Coordinate system: International Terrestrial Reference Frame 1991 (LINZ transformation)
 Reference frame: International Terrestrial Reference Frame 1991
   Relative to ITRF96
@@ -282,24 +231,19 @@ Ellipsoid: Geodetic Reference System 1980 (GRS80)
 
 ITRF96 to ITRF91
 
-
 6 coordinates converted
 0 errors occurred reading or converting coordinates
 
-
 6 coordinates converted
 0 errors occurred reading or converting coordinates
-NZGD2000 to ITRF91
-
+NZGD2000_20171201 to ITRF91
 
 31 coordinates converted
 0 errors occurred reading or converting coordinates
-
 
 31 coordinates converted
 0 errors occurred reading or converting coordinates
 ========== ITRF92 ============
-
 Coordinate system: International Terrestrial Reference Frame 1992 (LINZ transformation)
 Reference frame: International Terrestrial Reference Frame 1992
   Relative to ITRF96
@@ -310,24 +254,19 @@ Ellipsoid: Geodetic Reference System 1980 (GRS80)
 
 ITRF96 to ITRF92
 
-
 6 coordinates converted
 0 errors occurred reading or converting coordinates
 
-
 6 coordinates converted
 0 errors occurred reading or converting coordinates
-NZGD2000 to ITRF92
-
+NZGD2000_20171201 to ITRF92
 
 31 coordinates converted
 0 errors occurred reading or converting coordinates
-
 
 31 coordinates converted
 0 errors occurred reading or converting coordinates
 ========== ITRF93 ============
-
 Coordinate system: International Terrestrial Reference Frame 1993 (LINZ transformation)
 Reference frame: International Terrestrial Reference Frame 1993
   Relative to ITRF96
@@ -343,24 +282,19 @@ Ellipsoid: Geodetic Reference System 1980 (GRS80)
 
 ITRF96 to ITRF93
 
-
 6 coordinates converted
 0 errors occurred reading or converting coordinates
 
-
 6 coordinates converted
 0 errors occurred reading or converting coordinates
-NZGD2000 to ITRF93
-
+NZGD2000_20171201 to ITRF93
 
 31 coordinates converted
 0 errors occurred reading or converting coordinates
-
 
 31 coordinates converted
 0 errors occurred reading or converting coordinates
 ========== ITRF94 ============
-
 Coordinate system: International Terrestrial Reference Frame 1994 (LINZ transformation)
 Reference frame: International Terrestrial Reference Frame 1994
 Ellipsoid: Geodetic Reference System 1980 (GRS80)
@@ -368,24 +302,19 @@ Ellipsoid: Geodetic Reference System 1980 (GRS80)
 
 ITRF96 to ITRF94
 
-
 6 coordinates converted
 0 errors occurred reading or converting coordinates
 
-
 6 coordinates converted
 0 errors occurred reading or converting coordinates
-NZGD2000 to ITRF94
-
+NZGD2000_20171201 to ITRF94
 
 31 coordinates converted
 0 errors occurred reading or converting coordinates
-
 
 31 coordinates converted
 0 errors occurred reading or converting coordinates
 ========== ITRF96 ============
-
 Coordinate system: International Terrestrial Reference Frame 1996 (LINZ transformation)
 Reference frame: International Terrestrial Reference Frame 1996
 Ellipsoid: Geodetic Reference System 1980 (GRS80)
@@ -393,24 +322,19 @@ Ellipsoid: Geodetic Reference System 1980 (GRS80)
 
 ITRF96 to ITRF96
 
-
 6 coordinates converted
 0 errors occurred reading or converting coordinates
 
-
 6 coordinates converted
 0 errors occurred reading or converting coordinates
-NZGD2000 to ITRF96
-
+NZGD2000_20171201 to ITRF96
 
 31 coordinates converted
 0 errors occurred reading or converting coordinates
-
 
 31 coordinates converted
 0 errors occurred reading or converting coordinates
 ========== ITRF97 ============
-
 Coordinate system: International Terrestrial Reference Frame 1997 (LINZ transformation)
 Reference frame: International Terrestrial Reference Frame 1997
   Relative to ITRF96
@@ -426,24 +350,19 @@ Ellipsoid: Geodetic Reference System 1980 (GRS80)
 
 ITRF96 to ITRF97
 
-
 6 coordinates converted
 0 errors occurred reading or converting coordinates
 
-
 6 coordinates converted
 0 errors occurred reading or converting coordinates
-NZGD2000 to ITRF97
-
+NZGD2000_20171201 to ITRF97
 
 31 coordinates converted
 0 errors occurred reading or converting coordinates
-
 
 31 coordinates converted
 0 errors occurred reading or converting coordinates
 ========== ITRF2000 ============
-
 Coordinate system: International Terrestrial Reference Frame 2000 (LINZ transformation)
 Reference frame: International Terrestrial Reference Frame 2000
   Relative to ITRF96
@@ -459,24 +378,19 @@ Ellipsoid: Geodetic Reference System 1980 (GRS80)
 
 ITRF96 to ITRF2000
 
-
 6 coordinates converted
 0 errors occurred reading or converting coordinates
 
-
 6 coordinates converted
 0 errors occurred reading or converting coordinates
-NZGD2000 to ITRF2000
-
+NZGD2000_20171201 to ITRF2000
 
 31 coordinates converted
 0 errors occurred reading or converting coordinates
-
 
 31 coordinates converted
 0 errors occurred reading or converting coordinates
 ========== ITRF2005 ============
-
 Coordinate system: International Terrestrial Reference Frame 2005 (LINZ transformation)
 Reference frame: International Terrestrial Reference Frame 2005
   Relative to ITRF96
@@ -492,24 +406,19 @@ Ellipsoid: Geodetic Reference System 1980 (GRS80)
 
 ITRF96 to ITRF2005
 
-
 6 coordinates converted
 0 errors occurred reading or converting coordinates
 
-
 6 coordinates converted
 0 errors occurred reading or converting coordinates
-NZGD2000 to ITRF2005
-
+NZGD2000_20171201 to ITRF2005
 
 31 coordinates converted
 0 errors occurred reading or converting coordinates
-
 
 31 coordinates converted
 0 errors occurred reading or converting coordinates
 ========== ITRF2008 ============
-
 Coordinate system: International Terrestrial Reference Frame 2008 (LINZ transformation)
 Reference frame: International Terrestrial Reference Frame 2008
   Relative to ITRF96
@@ -525,19 +434,15 @@ Ellipsoid: Geodetic Reference System 1980 (GRS80)
 
 ITRF96 to ITRF2008
 
-
 6 coordinates converted
 0 errors occurred reading or converting coordinates
 
-
 6 coordinates converted
 0 errors occurred reading or converting coordinates
-NZGD2000 to ITRF2008
-
+NZGD2000_20171201 to ITRF2008
 
 31 coordinates converted
 0 errors occurred reading or converting coordinates
-
 
 31 coordinates converted
 0 errors occurred reading or converting coordinates
