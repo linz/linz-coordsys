@@ -1,3 +1,9 @@
+linz-coordsys (1.9.2-1) xenial; urgency=medium
+
+  * Kaikoura refinement release candidate 3
+
+ -- Chris Crook <ccrook@linz.govt.nz>  Fri, 31 Aug 2018 14:00:25 +1200
+
 linz-coordsys (1.9.1-1) xenial; urgency=medium
 
   * Adding tests (using concord)
