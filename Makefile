@@ -9,7 +9,7 @@ dummy:
 
 install: dummy
 	mkdir -p ${datadir}
-	cp files/* ${datadir}
+	cp -p files/* ${datadir}
 
 uninstall:
 	rm -rf ${datadir}
