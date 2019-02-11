@@ -1,3 +1,9 @@
+linz-coordsys (1.10.0-1) xenial; urgency=medium
+
+  * Expanding NZTM to encompass Chathams
+
+ -- Chris Crook <ccrook@linz.govt.nz>  Tue, 12 Feb 2019 09:59:40 +1300
+
 linz-coordsys (1.9.3-1) xenial; urgency=medium
 
   * Release candidate 4
