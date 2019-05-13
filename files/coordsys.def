@@ -211,6 +211,9 @@ NZGD1949 "New Zealand Geodetic Datum 1949 (NZGD49)" ELLIPSOID INTERNATIONAL &
    NZGD2000 59.47 -5.04 187.44 -0.47 0.1 -1.024 -4.5993 GRID &
    SNAP2D def492kt.grd "LINZ NZGD49-NZGD2000 conversion grid"
 
+NZGD1949_7PRM "New Zealand Geodetic Datum 1949 (7 parameter transformation) " ELLIPSOID INTERNATIONAL &
+   NZGD2000 59.47 -5.04 187.44 -0.47 0.1 -1.024 -4.5993 
+
 NZGD49_DMA "New Zealand Geodetic Datum 1949 (DMA 3 parameter model)" ELLIPSOID INTERNATIONAL NZGD2000 84 -22 209 0 0 0 0
 
 ! Camp area datum - no established relationship with another datum (reference datum=CAMPAREA)
@@ -369,6 +372,7 @@ NZGD2000_20000101 "New Zealand Geodetic Datum 2000 (version 20000101)" REF_FRAME
 
 ! NZGD49 "New Zealand Geodetic Datum 1949" REF_FRAME NZGD1949 GEODETIC
 NZGD1949 "New Zealand Geodetic Datum 1949" REF_FRAME NZGD1949 GEODETIC
+NZGD1949_7PRM "New Zealand Geodetic Datum 1949 (7 parameter transformation)" REF_FRAME NZGD1949_7PRM GEODETIC
 ! NZGD49_DMA "New Zealand Geodetic Datum 1949 (Dma)" REF_FRAME NZGD1949_DMA GEODETIC
 ! NZGD1949_XYZ "New Zealand Geodetic Datum 1949 - Cartesian XYZ" REF_FRAME NZGD1949 GEOCENTRIC
 
@@ -376,6 +380,10 @@ NZGD1949 "New Zealand Geodetic Datum 1949" REF_FRAME NZGD1949 GEODETIC
 ! NZ Mapping projections
 
 NZMG "New Zealand Map Grid" REF_FRAME NZGD1949 &
+          PROJECTION NZMG &
+          RANGE 1600000 4800000 3600000 7200000
+
+NZMG_7PRM "New Zealand Map Grid (7 parameter transformation)" REF_FRAME NZGD1949_7PRM &
           PROJECTION NZMG &
           RANGE 1600000 4800000 3600000 7200000
 
