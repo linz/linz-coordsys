@@ -1,3 +1,9 @@
+linz-coordsys (1.11.0-1) xenial; urgency=medium
+
+  * Adding access to NZGD1949 7 parameter transformation
+
+ -- Chris Crook <ccrook@linz.govt.nz>  Tue, 14 May 2019 10:52:18 +1200
+
 linz-coordsys (1.10.0-1) xenial; urgency=medium
 
   * Expanding NZTM to encompass Chathams
