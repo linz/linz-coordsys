@@ -1,3 +1,9 @@
+linz-coordsys (1.11.1-1) xenial; urgency=medium
+
+  * Updating name of local vertical datums follwing customer feedback
+
+ -- Chris Crook <ccrook@linz.govt.nz>  Mon, 20 May 2019 11:01:55 +1200
+
 linz-coordsys (1.11.0-1) xenial; urgency=medium
 
   * Adding access to NZGD1949 7 parameter transformation
