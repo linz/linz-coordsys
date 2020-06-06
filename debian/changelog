@@ -1,3 +1,15 @@
+linz-coordsys (1.12.0-1) xenial; urgency=medium
+
+  * Adding GDA2020 (not including distortion grid)
+
+ -- Chris Crook <ccrook@linz.govt.nz>  Sat, 6 Jun 2020 12:00:00 +1200
+
+linz-coordsys (1.11.3-1) xenial; urgency=medium
+
+  * Updating descriptions of LVDs
+
+ -- Chris Crook <ccrook@linz.govt.nz>  Tue, 3 Dec 2019 12:00:00 +1200
+
 linz-coordsys (1.11.2-1) xenial; urgency=medium
 
   * Fixing incorrect description of Auckland 46 datum
