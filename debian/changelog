@@ -1,3 +1,9 @@
+linz-coordsys (1.13.0-1) xenial; urgency=medium
+
+  * Adding provisional NZ tidal surface models
+
+ -- Chris Crook <ccrook@linz.govt.nz>  Mon, 31 Aug 2020 12:00:00 +1200
+
 linz-coordsys (1.12.0-1) xenial; urgency=medium
 
   * Adding GDA2020 (not including distortion grid)

@@ -1074,6 +1074,13 @@ STISHT1977_NZVD09 "Stewart Island 1977 (NZVD09)" NZVD09 OFFSET 0.39
 TARAHT1970_NZVD09 "Taranaki 1970 (NZVD09)"       NZVD09 OFFSET 0.32
 WELLHT1953_NZVD09 "Wellington 1953 (NZVD09)"     NZVD09 OFFSET 0.44
 
+TS_HAT "Highest astronomical tide tidal surface (TEST ONLY)" NZVD2016 GRID nz_tidal_surface_hat.grd
+TS_LAT "Lowest astronomical tide tidal surface (TEST ONLY)" NZVD2016 GRID nz_tidal_surface_lat.grd
+TS_MHW "Mean high water tidal surface (TEST ONLY)" NZVD2016 GRID nz_tidal_surface_mhw.grd
+TS_MHWS_10 "Mean high water springs tidal surface (TEST ONLY)" NZVD2016 GRID nz_tidal_surface_mhws_10.grd
+TS_MLW "Mean low water tidal surface (TEST ONLY)" NZVD2016 GRID nz_tidal_surface_mlw.grd
+TS_MLWS_10 "Mean low water springs tidal surface (TEST ONLY)" NZVD2016 GRID nz_tidal_surface_mlws_10.grd
+
 !================================================================================
 ! Notes can be provided for a coordinate system or datum, or 
 ! for a conversion between coordinate systems and datums.  This
