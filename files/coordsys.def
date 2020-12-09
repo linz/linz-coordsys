@@ -1077,6 +1077,8 @@ WELLHT1953_NZVD09 "Wellington 1953 (NZVD09)"     NZVD09 OFFSET 0.44
 TS_HAT "Highest astronomical tide tidal surface (TEST ONLY)" NZVD2016 GRID nz_tidal_surface_hat.grd
 TS_LAT "Lowest astronomical tide tidal surface (TEST ONLY)" NZVD2016 GRID nz_tidal_surface_lat.grd
 TS_MSL "Mean sea level tide surface (TEST ONLY)" NZVD2016 GRID nz_tidal_surface_msl.grd
+TS_MHW "Mean high water tide surface (TEST ONLY)" NZVD2016 GRID nz_tidal_surface_mhw.grd
+TS_MLW "Mean low water tide surface (TEST ONLY)" NZVD2016 GRID nz_tidal_surface_mlw.grd
 
 !================================================================================
 ! Notes can be provided for a coordinate system or datum, or 
