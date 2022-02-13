@@ -10,6 +10,5 @@ Homepage:
 
 Package: linz-coordsys
 Architecture: all
-Depends: ${shlibs:Depends}, ${misc:Depends}
 Description: Install LINZ coordinate system definition files
  Install LINZ coordinate system definition files used by a number of LINZ utilities
