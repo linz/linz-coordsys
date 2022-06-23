@@ -1,3 +1,9 @@
+linz-coordsys (1.13.0-1) focal; urgency=medium
+
+  * fix: Raoul Island TM changed to NZGD2000
+
+ -- Chris Crook <ccrook@linz.govt.nz>  Thu, 23 Jun 2022 17:00:00 +1200
+
 linz-coordsys (1.12.0-2) focal; urgency=medium
 
   * Packaging update
