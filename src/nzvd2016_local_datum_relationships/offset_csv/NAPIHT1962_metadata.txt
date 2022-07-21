@@ -1,2 +1,0 @@
-Name: Napier 1962 (NZVD2016)
-Version: 20160601

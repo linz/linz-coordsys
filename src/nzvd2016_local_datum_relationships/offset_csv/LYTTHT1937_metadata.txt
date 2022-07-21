@@ -1,2 +1,0 @@
-Name: Lyttelton 1937 (NZVD2016)
-Version: 20160601

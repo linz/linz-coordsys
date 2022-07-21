@@ -1,2 +1,0 @@
-Name: Gisborne 1926 (NZVD2016)
-Version: 20160601
