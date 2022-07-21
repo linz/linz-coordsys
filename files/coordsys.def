@@ -651,7 +651,7 @@ CATM2000 "Campbell Island Transverse Mercator 2000" REF_FRAME ITRF96 &
 CITM2000 "Chatham Islands Transverse Mercator 2000" REF_FRAME NZGD2000 &
           PROJECTION TM -176.5 0.0 1.0 3500000.0 10000000.0 1.0
 
-RITM2000 "Raoul Island Transverse Mercator 2000" REF_FRAME ITRF96 &
+RITM2000 "Raoul Island Transverse Mercator 2000" REF_FRAME NZGD2000 &
           PROJECTION TM -178.0 0.0 1.0 3500000.0 10000000.0 1.0
 
 ! Continental Shelf Projection
