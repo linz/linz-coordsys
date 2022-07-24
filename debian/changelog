@@ -1,3 +1,9 @@
+linz-coordsys (1.13.1-1) focal; urgency=medium
+
+  * fix: Reverting Raoul Island TM pending deformation model investigation
+
+ -- Chris Crook <ccrook@linz.govt.nz>  Mon, 25 Jun 2022 10:00:00 +1200
+
 linz-coordsys (1.13.0-1) focal; urgency=medium
 
   * fix: Raoul Island TM changed to NZGD2000
