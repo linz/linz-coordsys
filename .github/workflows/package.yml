@@ -5,10 +5,10 @@ name: Upload linz-coordsys to packagecloud.io when commit is tagged with version
 #    tag #.#.#-#-test goes to dev repository
 #    tag #.#.#-#      goes to test repository.  Manual promotion from there to prod repository.
 #
-on: 
+on:
   push:
     tags:
-      - '[0-9]+.[0-9]+.[0-9]+-[0-9]+*'
+      - "[0-9]+.[0-9]+.[0-9]+-[0-9]+*"
 jobs:
   package:
     runs-on: ubuntu-20.04
@@ -29,7 +29,7 @@ jobs:
       - name: Document target repository
         run: |
           echo "Cloud repo: $PACKAGECLOUD_REPOSITORY"
-      - uses: linz/linz-software-repository@v8
+      - uses: linz/linz-software-repository@v14
         with:
           release: ${{ matrix.distro }}
           packagecloud_repository: ${{ env.PACKAGECLOUD_REPOSITORY }}
