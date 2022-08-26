@@ -1,2 +1,0 @@
-Name: Wellington 1953 (NZVD2016)
-Version: 20160601

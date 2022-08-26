@@ -1,2 +1,0 @@
-Name: Auckland 1946 (NZVD2016)
-Version: 20160601
