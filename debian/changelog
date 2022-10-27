@@ -1,3 +1,9 @@
+linz-coordsys (1.14.1-1-tidal) xenial; urgency=medium
+
+  * Updating provisional NZ tidal surface models
+
+ -- Chris Crook <ccrook@linz.govt.nz>  Fri, 27 Oct 2022 12:00:00 +1200
+
 linz-coordsys (1.13.2-1-tidal) xenial; urgency=medium
 
   * Adding provisional NZ tidal surface models
