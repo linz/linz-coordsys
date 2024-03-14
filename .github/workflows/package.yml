@@ -15,7 +15,7 @@ jobs:
     strategy:
       fail-fast: false
       matrix:
-        distro: [bionic, focal]
+        distro: [focal, jammy]
     env:
       PACKAGECLOUD_REPOSITORY: test
     steps:

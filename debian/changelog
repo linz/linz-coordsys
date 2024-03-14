@@ -1,3 +1,9 @@
+linz-coordsys (1.14.1-2) focal; urgency=medium
+
+  * fix: Adding ITRF2020
+
+ -- Chris Crook <ccrook@linz.govt.nz>  Fri, 15 Mar 2024 10:00:00 +1200
+
 linz-coordsys (1.13.1-1) focal; urgency=medium
 
   * fix: Reverting Raoul Island TM pending deformation model investigation
