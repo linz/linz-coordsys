@@ -116,6 +116,10 @@ WGS84_G1762=(WGS84) "World Geodetic System 1984 (G1762)" ELLIPSOID WGS84 &
 
 ITRF96 "International Terrestrial Reference Frame 1996" ELLIPSOID GRS80 NONE
 
+ITRF2020 "International terrestrial reference frame 2020" ELLIPSOID GRS80 &
+  ITRF96 IERS_ETSR 2000.0   5.0   4.59 -15.87  0.66901 -0.16508 0.26897 0.11984 &
+                            0.79 -0.7   -1.24 -0.07201 -0.01347 0.01514 0.01973
+
 ITRF2014 "International terrestrial reference frame 2014" ELLIPSOID GRS80 &
   ITRF96 IERS_ETSR 2000.0   6.4    3.99 -14.27  1.08901 -0.16508  0.26897  0.11984 &
                             0.79  -0.6   -1.44 -0.07201 -0.01347  0.01514  0.01973
@@ -362,6 +366,9 @@ ITRF2008 "International Terrestrial Reference Frame 2008 (LINZ transformation)" 
 
 ITRF2014_XYZ "International Terrestrial Reference Frame 2014 XYZ (LINZ transformation)" REF_FRAME ITRF2014 GEOCENTRIC
 ITRF2014 "International Terrestrial Reference Frame 2014 (LINZ transformation)" REF_FRAME ITRF2014 GEODETIC
+
+ITRF2020_XYZ "International Terrestrial Reference Frame 2020 XYZ (LINZ transformation)" REF_FRAME ITRF2020 GEOCENTRIC
+ITRF2020 "International Terrestrial Reference Frame 2020 (LINZ transformation)" REF_FRAME ITRF2020 GEODETIC
 
 ! NZGD2000 geodetic systems
 
