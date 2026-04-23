@@ -4,7 +4,7 @@ name: Upload linz-coordsys to packagecloud.io when commit is tagged with version
 #  Push based on tags.
 #    tag #.#.#-#-test goes to dev repository
 #    tag #.#.#-#      goes to test repository.  Manual promotion from there to prod repository.
-#
+
 on:
   push:
     tags:
@@ -15,7 +15,7 @@ jobs:
     strategy:
       fail-fast: false
       matrix:
-        distro: [jammy,jammy]
+        distro: [jammy,noble]
     env:
       PACKAGECLOUD_REPOSITORY: test
     steps:
