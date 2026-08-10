@@ -110,8 +110,16 @@ WGS84_G1674 "World Geodetic System 1984 (G1674)" ELLIPSOID WGS84 &
   ITRF2008 IERS_ETSR 2005.0   0      0      0     0        0        0        0       &
                               0      0      0     0        0        0        0      
    
-WGS84_G1762=(WGS84) "World Geodetic System 1984 (G1762)" ELLIPSOID WGS84 &
+WGS84_G1762 "World Geodetic System 1984 (G1762)" ELLIPSOID WGS84 &
   ITRF2008 IERS_ETSR 2005.0   0      0      0     0        0        0        0       &
+                              0      0      0     0        0        0        0      
+   
+WGS84_G2139 "World Geodetic System 1984 (G2139)" ELLIPSOID WGS84 &
+  ITRF2014 IERS_ETSR 2016.0   0      0      0     0        0        0        0       &
+                              0      0      0     0        0        0        0      
+   
+WGS84_G2296=(WGS84) "World Geodetic System 1984 (G2296)" ELLIPSOID WGS84 &
+  ITRF2020 IERS_ETSR 2024.0   0      0      0     0        0        0        0       &
                               0      0      0     0        0        0        0      
 
 ITRF96 "International Terrestrial Reference Frame 1996" ELLIPSOID GRS80 NONE
