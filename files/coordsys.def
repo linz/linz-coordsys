@@ -1061,7 +1061,7 @@ YORK_L "Mount York Circuit 1949 (links)" REF_FRAME NZGD1949 &
 
 NZVD09 "New Zealand Vertical Datum 2009" NZGD2000 GEOID nzgeoid09
 NZVD2016 "New Zealand Vertical Datum 2016" NZGD2000 GEOID nzgeoid2016
-EGM96 "Earth Gravitational Model 1996" WGS84_G1762 GEOID egm96
+EGM96 "Earth Gravitational Model 1996" WGS84_G873 GEOID egm96
 
 !
 ! "Orthometric" height datums 
